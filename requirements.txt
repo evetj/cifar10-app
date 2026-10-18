@@ -1,0 +1,8 @@
+tensorflow>=2.16
+keras-tuner>=1.4
+streamlit>=1.33
+scikit-learn
+matplotlib
+pillow
+numpy
+datasets
